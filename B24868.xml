@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christ Jesus the true Messiah delineated in three oeconomies agreed on all sides / by Israel Isaac, formerly a Jew, but now a Christian.</title>
+            <author>Isaac, Israel.</author>
+         </titleStmt>
+         <extent>Approx. 49KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24868</idno><idno type="EEBO-CITATION">31354967</idno>
+  <idno type="VID">205878</idno>
+  <idno type="EEBO-PROQUEST">2248541008</idno>
+  
+            <idno type="STC">Wing I1057</idno>
+            <idno type="OCLC">31354967</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24868)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205878)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1740:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christ Jesus the true Messiah delineated in three oeconomies agreed on all sides / by Israel Isaac, formerly a Jew, but now a Christian.</title>
+                  <author>Isaac, Israel.</author>
+               </titleStmt>
+               <extent>[6], 25 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Tyler, and R. Holt, for the Author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the Year 1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jesus Christ --  Messiahship.</term>
+               <term type="topical_term">Messiah --  Prophecies.</term>
+               <term type="topical_term">Christian converts from Judaism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205878:1"/>
+            <p>CHRIST JESUS THE TRUE MESSIAH, DELINEATED In three Oeconomies AGREED <hi>On all Sides,</hi>
+            </p>
+            <p>By <hi>Israel Isaac,</hi> formerly a Jew, but now a Christian.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. Tyler,</hi> and <hi>R. Holt,</hi> for the Author; in the Year 1682.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:205878:2"/>
+            <pb facs="tcp:205878:2"/>
+            <head>TO HIS GRACE CHRISTOPHER DUKE OF Albemarl, &amp;c. FELICITY.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THE end of this Book is on<g ref="char:EOLhyphen"/>ly to shew how Jesus Christ our Saviour hath been repre<g ref="char:EOLhyphen"/>sented in and before the Law. What<g ref="char:EOLhyphen"/>soever I did write in my weakness,
+<pb facs="tcp:205878:3"/>though it be not an Argument of my Scholarship, yet it is a Testimony of my Profession. I desire your Grace to accept of it, and effectually to shew you have no less Kindness for a poor Convert, than for him he is Conver<g ref="char:EOLhyphen"/>ted to. I wish the Lord may bless your Grace, and endue you with all these Gifts as are beneficial to your Graces Felicity here, and hereafter. So I rest</p>
+            <closer>
+               <signed>Your Graces Most Obedient and most humble Servant <hi>ISRAEL ISAAC</hi> A Converted Jew.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:205878:3"/>
+            <head>TO THE CHRISTIAN READER.</head>
+            <p>ABove fifty Years I have lived in this World, but so much I was dazled by the dark Beams of Rabinical and Thal<g ref="char:EOLhyphen"/>mudical Principles, that I never thought to please and to satisfy my self more, as then when this Darling of Hypocrisy and Deceit courted my Con<g ref="char:EOLhyphen"/>science. I was an Enemy (though a hidden one) unto all them as professed Christ, thinking there could be no such thing in being as Christians do aver, viz. There should be two Natures in one Person, and that Divinity should degrade it self so far as to take into the Fellowship of its Cha<g ref="char:EOLhyphen"/>racterized Essence, a poor Worm, and a Carcass as a Man is. But afterwards seeing these great Proofs of the Holy Ghost, as I have deposed in the ensuing Treatise; I have been convinced of my
+<pb facs="tcp:205878:4"/>Error, and consequently resolved to Associate my self to the Holy Church of Christ, by the Admi<g ref="char:EOLhyphen"/>nistration of Baptism. Accordingly I was Bap<g ref="char:EOLhyphen"/>tized in St. <hi>Martins</hi> Church in the Fields, by the Right Reverend Father <hi>William</hi> Lord Bishop of St. <hi>Asaph.</hi> Now my good and Noble Rea<g ref="char:EOLhyphen"/>der, I have three Children in the Country of <hi>Bo<g ref="char:EOLhyphen"/>hemia</hi> where I was born, and there in the City of <hi>Praga,</hi> to whom I have several times sent, that they might come over in order to their Conversion; but neither they are able to come without Charges, nor I to supply them with Necessaries. Therefore I desire every Christians Assistance, that by these Means I may bear them in Christ; as I have bore them in the Flesh. The Lord perform this good Work, and let my Intentions come to pass. Farewel.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:205878:4"/>
+            <head>CHRIST JESUS, IN THREE Oeconomies.</head>
+            <p>THAT there are but three Oeconomies wherein the Faithful as well as the out<g ref="char:EOLhyphen"/>ward Adherers to the Company of them, work out their Salvation; it is allowed not only by the Holy Scriptures, but by the Jewish Rab<g ref="char:EOLhyphen"/>bies also. Witness Rabbi <hi>Elihu,</hi> who,
+<note place="margin">Talmud in <hi>Onavoda Zora.</hi>
+               </note> as the Talmud teacheth us, in his Letters of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, plainly not without a set determination of time, as binding the same to the Days of the first Creation, and count<g ref="char:EOLhyphen"/>ing every Day for a thousand Years according to
+<pb n="2" facs="tcp:205878:5"/>that of <hi>Moses,</hi>
+               <note place="margin">Psal. 90. <hi>v.</hi> 4.</note>
+               <hi>(For a thousand Years in thy Sight are as yesterday,)</hi> professeth; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that is; The World is to continue six thousand Years; two thousand with<g ref="char:EOLhyphen"/>out Form, two thousand Law, two thousand the Days of Messias.
+<note place="margin">Heb. 1. <hi>v.</hi> 1, 2.</note> This, Apostle <hi>Paul</hi> seems to Insinuate, when writing to the <hi>Hebrews,</hi> saith; God who at sundry times, and in divers manners, spoke in time past unto the Fathers by the Prophets; hath in these last Days, spoken unto us by his Son, <hi>&amp;c.</hi>
+            </p>
+            <p>He tells us first, that God at sundry times did speak to the Fathers. 2ly. In divers manners. 3ly. That in the last Days he spoke by his Son. Of the latter part we will Treat afterwards; But as to the first two branches, they are grafted in these two things, or Propositions, <hi>viz.</hi> That God spoke,
+<q>1. <hi>At sundry times; and</hi> 2ly. <hi>In divers manners.</hi>
+               </q>
+            </p>
+            <p>These sundry Times, as well as divers Manners, have a relation to the two first Oeconomies, before the coming of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> King Messias; consisting first
+<q>
+                  <hi>In Emptiness.</hi> 2ly. <hi>In the Aaronical Administration.</hi>
+               </q>
+            </p>
+            <p>As to the first, 'tis called the Oeconomy of Emp<g ref="char:EOLhyphen"/>tiness, because it was void of all such Sacrifices as were either restricted to the Place, the Time, the Manner of Sacrificing, or else to the Persons per<g ref="char:EOLhyphen"/>forming that Religious duty. The first-born Sons, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Fathers either, could Offer at any time
+<pb n="3" facs="tcp:205878:5"/>an Oblation, whether it was done as we can guess,
+<note place="margin">Gen. 4. <hi>v.</hi> 4. <hi>ib. c.</hi> 8. <hi>v</hi> 4.20. <hi>ib. c.</hi> 22. <hi>ib. c.</hi> 33.</note> in <hi>Mesopotamia,</hi> or on the Mountains of <hi>Ararat,</hi> or in the Land of <hi>Moriah,</hi> or yet in <hi>Schechem.</hi> Pro<g ref="char:EOLhyphen"/>vidence had not as yet tied <hi>all the Circumstances of Service</hi> to the City of <hi>Jerusalem,</hi> by reason that burnt Offering,
+<note place="margin">Gen. 22.</note> whereof <hi>Abraham</hi> saith <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which was represented only in Image by <hi>Isaac,</hi> had not as yet that more substantial Shadow, which it was to have in the ensuing diversity of Sacrifices; <hi>Nor the performance of the Office to</hi> the Tribe of <hi>Le<g ref="char:EOLhyphen"/>vi,</hi>
+               <note place="margin">
+                  <hi>ib</hi> 34.</note> as not yet existent nor defiled with the Blood of <hi>Hamor</hi> and <hi>Schechem,</hi> and their City, for expiation of which, <hi>it</hi> was restricted to that Tribe,
+<note place="margin">
+                  <hi>ib.</hi> 49.</note> as well as the Scattering to <hi>Simeon</hi>'s, and the High-Priest was always to offer first for himself,
+<note place="margin">Lev. 9.</note> as being bound to the performance of a doubled duty.</p>
+            <p>Hence it proceeded that the King <hi>Messiah</hi> all this time did go under the notion only of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, accord<g ref="char:EOLhyphen"/>ing to that Promise of God after the fall of <hi>Adam</hi> in the Garden of <hi>Eden;</hi>
+               <note place="margin">Gen. 3.15.</note> I shall put an Enmity be<g ref="char:EOLhyphen"/>tween thee and the Woman, between thy Seed and her Seed; and so every where else (until the Pro<g ref="char:EOLhyphen"/>phesie of <hi>Jacob.</hi>) He is called <hi>the Seed.</hi>
+               <note place="margin">Gen. 49.</note> For when <hi>Cain</hi> was cursed and become a Vagabond, as be<g ref="char:EOLhyphen"/>ing rejected from the Presence of God; <hi>Eve</hi> think<g ref="char:EOLhyphen"/>ing the Promise of the blessed Seed was now at a Stake, was extremely glad when she bare a Son, and called him <hi>Seth;</hi> for God, saith she,
+<note place="margin">Gen. 4.26<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>v.</hi> 1.</note> hath ap<g ref="char:EOLhyphen"/>pointed me another <hi>Seed</hi> instead of <hi>Abel,</hi> whom <hi>Cain</hi> Slew; whom she formerly thought to be <hi>the Man.</hi> God himself in his Covenant with <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> calls him <hi>the Seed;</hi> And in thy <hi>Seed</hi> shall all
+<pb n="4" facs="tcp:205878:6"/>the Nations of the Earth be Blessed,
+<note place="margin">Gen. 23.18.</note> according to the Interpretation of the Holy Apostle; <hi>He</hi> (that is God) <hi>saith not,</hi> and to Seeds, <hi>as of many; but as of one,</hi>
+               <note place="margin">Gal. 3.16.</note> and to thy Seed, <hi>which is Christ.</hi> Yea, the Jewish Rabbies themselves (how apposite let the Reader judge;) informeth us the Daughters of <hi>Lot</hi> did not commit a Sin in lying with their Father, by reason it was out of a good Intent,
+<note place="margin">Gen. 19.31.32.</note> as namely the obtaining of the promised Seed; <hi>There is not a Man left in the Earth,</hi> &amp;c. <hi>Come let us make our Father drink Wine, and we will lie with him, that we may preserve</hi> Seed <hi>of our Father.</hi> So that out of the Truth it self, and the Gloss of the Rabbies, it is evident the King Messiah was called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>the Seed.</hi>
+            </p>
+            <p>The reason of this was, because the Church at that time was under the Dispensation of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Emp<g ref="char:EOLhyphen"/>tiness.</hi> When the Messias was in a manner <hi>in Semi<g ref="char:EOLhyphen"/>ne &amp; Radice</hi> in the Root, and not grown up to that representative Perfection as he had when typical<g ref="char:EOLhyphen"/>ly Adumbrated. Neither was there such a clear notion of his Deity under that Oeconomy, though Christ did appear several times in the shape of a Man,
+<note place="margin">Augustinus.</note>
+               <hi>in praeludium suae incarnationis</hi> as an old Fa<g ref="char:EOLhyphen"/>ther saith, shewing that he was the <hi>Seed.</hi>
+            </p>
+            <p>And as well as such indefinite Notions were ap<g ref="char:EOLhyphen"/>plied to the King Messias as to his Name, under this Dispensation, so there was no appointed time for the fulfilling of the Promises. <hi>Moses</hi> spoke with<g ref="char:EOLhyphen"/>out a Period when he declared God's Promise.
+<note place="margin">Deut. 18.15.</note>
+               <hi>The Lord thy God will raise up unto thee a Prophet from the midst of thee, of thy Brethren, like unto me; unto
+<pb n="5" facs="tcp:205878:6"/>him you shall hearken.</hi> Which place though some of the Talmudical Crew is apt to wrest, yet the major part allows it is to be understood of the Mes<g ref="char:EOLhyphen"/>siah. Older then him, and the Father of all the Tribes of <hi>Jacob,</hi>
+               <note place="margin">Gen 49.10.</note> speaks indefinitely also in his Me<g ref="char:EOLhyphen"/>taphorical last-Will, when he saith; <hi>The Scepter shall not depart from Judah, nor the Lawgiver from between his Feet until Shiloh come.</hi> Neither the one nor the other did determine when this <hi>Star should rise out of</hi> Jacob, but only utter'd it,
+<note place="margin">Numb. 24.17.</note> as it were at Randum.</p>
+            <p>Still they were not void of Faith, nor of Conso<g ref="char:EOLhyphen"/>lation neither, for <hi>he</hi> Prophesied of Shiloh,
+<note place="margin">Rom. 4.3.</note>
+               <hi>who</hi> was the third of <hi>Abraham,</hi> whose Faith was impu<g ref="char:EOLhyphen"/>ted to him for Righteousness,
+<note place="margin">Joh. 8.56.</note> and who rejoyced to see the Day of this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and saw it and was glad, and doubtless being no less Faithful in all the House of God then <hi>Moses</hi> was, taught the same Princi<g ref="char:EOLhyphen"/>ples his Posterity, as he was indued withal, ac<g ref="char:EOLhyphen"/>cording to that Character as this same <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> gives him.
+<note place="margin">Gen. 18.19.</note>
+               <hi>For I know him</hi> (Abraham) <hi>that he will command his Children and his Household after him, and they shall keep the way of the Lord, to do Justice and Judgment, that the Lord may bring upon</hi> Abra<g ref="char:EOLhyphen"/>ham <hi>that which he hath spoken of him.</hi>
+            </p>
+            <p>To conclude this Epocha, I must only add this, that all the time of this Administration there was no written Law, but only traditional, and as it were <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> from Mouth to Mouth, whereunto the greatest Expedients as can be named were, the longuevity of the Patriarch, the scarcity of the Faithful, and the frequency of Revelations.</p>
+            <pb n="6" facs="tcp:205878:7"/>
+            <p> Afterwards when the People of <hi>Israel</hi> could make up a competent common-Weal it pleased God to change his first way of guiding his Church, and to install another kind of Dispensation, which is called either Aaronical, Levitical, or Mosaical, in re<g ref="char:EOLhyphen"/>ference either to the Administrators of the same, or the Mediator which was <hi>Moses.</hi>
+            </p>
+            <q>And this is the Aaronical Administration; which by this <hi>Elihu</hi> and others is invested by the name of the Days of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <p>Thereby they understand the written Law as was penned by <hi>Moses</hi> at the Command of the Al<g ref="char:EOLhyphen"/>mighty, wherein the way, the matter, the manner, the times, the place of Sacrificing were prescribed and limited, the Persons for the Service appointed, and the former Sacrament of Circumcision cumu<g ref="char:EOLhyphen"/>lated with a Passeover (as a clearer Type of the fu<g ref="char:EOLhyphen"/>ture;) though to prevent the idleness of the stiff<g ref="char:EOLhyphen"/>necked People, and much inclined to Idolatry, there was added unto it a meer unsignificant <hi>Yoke,</hi>
+               <note place="margin">Act. 15.</note> as the Apostle <hi>Peter</hi> doth term it, which consisted in these Impositions as concerned Meats, Ablutions, Absti<g ref="char:EOLhyphen"/>nence and the like. In this Administration, the People of <hi>Israel,</hi> had clearer and clearer Docu<g ref="char:EOLhyphen"/>ments of the certain futurition of Messias the King, which did consist in three things.</p>
+            <pb n="7" facs="tcp:205878:7"/>
+            <p>
+               <hi>First, In the multitude of Types.</hi>
+            </p>
+            <p>
+               <hi>Secondly, In a more significant utterance of Titles in relation to his Nature and Condition: And</hi>
+            </p>
+            <p>
+               <hi>Thirdly, In a fixed determination of that time, when and why he was to come.</hi>
+            </p>
+            <p>We'l begin with the latter, and so by a retro<g ref="char:EOLhyphen"/>grade way come to the former.</p>
+            <p>The Jews themselves allow that <hi>Daniel</hi> in his 9th. Chapter, prophecies of Messiah the Prince,
+<note place="margin">Dan. 9.</note> and there we find an express determination of time in <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> seventy Weeks, which being prophe<g ref="char:EOLhyphen"/>tical, signifieth seventy <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Weeks of Years,</hi> that is seventy times seven.</p>
+            <p>And if we intend to be Caballistical, wherein the Jewish Rabbies ground the excellency of their learning; we will find <hi>Isaiah</hi> the Evangelistical Pro<g ref="char:EOLhyphen"/>phet, using a strange and an irregular Orthography in a passage wherein he talks of the Messiah;
+<note place="margin">Esai. <hi>c.</hi> 9.7.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> saith he, <hi>of the Increase of his Government and Peace there shall be no end.</hi> Where in the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Mem</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>Finalis</hi> is in the midst, a thing very strange and unusual, yea against all the Rules of a<g ref="char:EOLhyphen"/>ny Grammer. Thence they might Enfer it inclu<g ref="char:EOLhyphen"/>ded some Mystery, and if so, it was only this, that it being a numerical Letter, denoting the number of 600, signified that this Messias the King should ap<g ref="char:EOLhyphen"/>pear in the World after six hundred Years from
+<pb n="8" facs="tcp:205878:8"/>that time, <hi>Esaiah</hi> began to Prophesie.</p>
+            <p>And as this legal Oeconomy had the advantage above the other, in that it had a certain knowledg of that time wherein the accomplishment of the Promises was to be undoubtedly, so likewise their Joy could be no ways inferior to their Advantage, in that the People of <hi>Israel</hi> knew out of what Tribe this Messiah was to be born, yea out of what Fa<g ref="char:EOLhyphen"/>mily of that Tribe;
+<note place="margin">Esai. 11.12.</note>
+               <hi>And there shall come forth a Rod out of the Stem of</hi> Jesse, <hi>and a Branch shall grow out of his Roots,</hi> &amp;c. <hi>Upon the Throne of</hi> David <hi>and upon his Kingdom.</hi>
+               <note place="margin">
+                  <hi>ib. c.</hi> 9.7.</note> For whatsoever the present Rabbies commence of two Messia's, the one a Son of <hi>Joseph,</hi> who was to suffer and to be slain, the other a Son of <hi>David</hi> who is to subdue all his Enemies, and to Rule; it hath been no ways known in the days of old, where with one accord all the Faithful expected but one Messias, even the Lion of the Tribe of <hi>Judah.</hi> Moreover the place of his Nativity was allotted by the Lord, and all this for their Sureties and Consolations sake; <hi>But thou</hi> Bethlehem Ephratah,
+<note place="margin">Mich. 5.2.</note>
+               <hi>though thou be but little a<g ref="char:EOLhyphen"/>mongst the thousands of</hi> Juda, <hi>yet out of thee shall he come forth unto me, that is to be the Ruler in</hi> Israel, whose going forth, <hi>&amp;c.</hi> And then lest the place of the second Temple should be despised, and peo<g ref="char:EOLhyphen"/>ple should mourn at the continuation of the same,
+<note place="margin">Ezr 12.3.</note> as they did cry at the building of it, the Lord pro<g ref="char:EOLhyphen"/>miseth that in this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>last Temple</hi> should ap<g ref="char:EOLhyphen"/>pear the King Messias who <hi>was the desire of all Na<g ref="char:EOLhyphen"/>tions,</hi>
+               <note place="margin">Hag. 2.7.</note> according to the exposition of their antient Rabbies, (though the modern dreams of a third
+<pb n="9" facs="tcp:205878:8"/>one;) and that by his appearance the Glory of <hi>this last Temple,</hi> should be greater than that of the former. And as the time of his coming was known to the Faithful, so was likewise the end, clearer by a great deal, than under the dispensation of <hi>Empti<g ref="char:EOLhyphen"/>ness,</hi>
+               <note place="margin">Gen. 49.</note>
+               <hi>where</hi> the King Messiah was proposed as a Con<g ref="char:EOLhyphen"/>solator, but <hi>here</hi> he is proposed as a Sufferer and an <hi>Expiator</hi> as we may at large learn out of the known place of <hi>Isaiah</hi> 53.
+<note place="margin">Isa. 53.</note> King David a Prophet and a Type of Christ speaks to the same purpose, be<g ref="char:EOLhyphen"/>fore the birth of <hi>Isaiah;</hi> Dogs have compassed me about, the Assembly of the wicked have inclo<g ref="char:EOLhyphen"/>sed me, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">Psal. 22.16.</note> they pierced my Hands and my Feet, shewing what an end the Messiah should have, and how he was to suffer. And though the modern Jews would elude this Argument, as be<g ref="char:EOLhyphen"/>ing applyable to none but the Messiah, by reason David was never handled at that rate, by expound<g ref="char:EOLhyphen"/>ing this Word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> thus; <hi>as a Lyon;</hi> and for this same purpose <hi>Athias</hi> his edition hath left out the Marginal, yet this same Marginal <hi>Masorah</hi> adored by all the Jews hath expresly <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in all other E<g ref="char:EOLhyphen"/>ditions besides, that I may pass by the Observation of some skilled in the <hi>Arabiek</hi> Tongue, who pro<g ref="char:EOLhyphen"/>fess and defend this Word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to have the same signification with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and sheweth it was mutua<g ref="char:EOLhyphen"/>ted from that Language, as the Chaldaick in <hi>Esdra</hi> and <hi>Daniel,</hi> or this same Arabick and Syri<g ref="char:EOLhyphen"/>ack in the Book of <hi>Job.</hi> And then what Sence should there be in these Words, <hi>as a Lyon my Hands and Feet</hi> if this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> should be admitted to signify <hi>as a Lyon.</hi> So that it needs must be a surreptitious
+<pb n="10" facs="tcp:205878:9"/>word by the <hi>Incuria</hi> or carelesness of the Transcri<g ref="char:EOLhyphen"/>bers, which <hi>Masorah</hi> restored to its own proper Sence, or else the Arabick Word must be admit<g ref="char:EOLhyphen"/>ted of. Especially since the Prophet <hi>Zachariah</hi> prophesying of the Messiah, seems to put a kind of a Gloss upon these Words of <hi>David,</hi> and maketh an express mention of Wounds in the Hands of the promised <hi>Expiator;</hi>
+               <note place="margin">Zach. 13.6.</note> And one shall say unto him, what are these Wounds <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in thy Hands? Then he shall answer. Those with which I was wounded in the House of my Friends.</p>
+            <p>So that the end of the coming of Messiah the King, which was clearly foreshown in this second Oeconomie, did not consist in any restauration of the People of Israel to their own Possessions, nor in the subduing of the Heathens, (as our goodly modern Jews do imagine;) that this wicked Ge<g ref="char:EOLhyphen"/>neration may reign over them, but in the Expiati<g ref="char:EOLhyphen"/>on of their and other Nations Sins, if they should believe in that Saviour, and in that Prophet which God was to send.
+<note place="margin">Zach. 14.9.</note> For the Wall of Partition was to be broke off, and the Lord should be King over all the Earth, there was to be no distinction betwixt a Heathen and a Jew, for all the Earth was to be the People of the Lord, and in these Days Jehova <hi>was to be one, and his Name one.</hi> These Divisions of Gods, and of many sorts of Gods were to cease, and every one was to adore the God of Israel, in and by the name, or as <hi>David</hi> saith by the kissing of his Son,
+<note place="margin">Psal. 2.12.</note> lest they should perish from the way of Salvation, and be deprived of that Bless as is pro<g ref="char:EOLhyphen"/>per to them as puts their Trust in the <hi>Lord's Anoint<g ref="char:EOLhyphen"/>ed.</hi>
+               <pb n="11" facs="tcp:205878:9"/>Yea the Nations were in a manner to be in<g ref="char:EOLhyphen"/>truded into the Assembly of the Righteous;
+<note place="margin">Esai. 9.2.</note> The People that walked in Darkness, have seen a great Light: <hi>They that dwell in the Land of the Shadow of Death, upon them hath the Light shined,</hi>
+               <note place="margin">
+                  <hi>verse</hi> 6.</note> but what was this Light? it followeth, <hi>unto us is a Child born,</hi>
+               <note place="margin">Esa. 65.25.</note>
+               <hi>&amp;c.</hi> In short the <hi>Wolf and the Lamb,</hi> the Heathen and the Jew should feed together on these green Pastures as are placed by the side of the still Wa<g ref="char:EOLhyphen"/>ters.
+<note place="margin">Psal. 23.2.</note> There was to be no noise there about Cir<g ref="char:EOLhyphen"/>cumcised and uncircumcised, all was to be in qui<g ref="char:EOLhyphen"/>etness and Peace, and the living Church was as that of <hi>Solomon</hi>'s (a Type of Christ) to be built up, without Hammer and Iron.</p>
+            <p>Thus the end of the coming of Messiah the King was consequently to change the Nature of the for<g ref="char:EOLhyphen"/>mer Covenant, which first was made, but only with the Tribes of <hi>Israel</hi> according to what <hi>David</hi> saith,
+<note place="margin">Psal. 147.19.20.</note>
+               <hi>He sheweth his Word unto</hi> Jacob, <hi>his Statutes and his Judgments unto</hi> Israel, <hi>he hath not dealt so with a<g ref="char:EOLhyphen"/>ny Nation, and therefore they do not know his Judg<g ref="char:EOLhyphen"/>ments.</hi> These Judgments were delivered by. <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> as a Mediator of the Covenant of Law: But the Mediator of a better Covenant was (as I said formerly) to break off the Wall of Partition, and be a Light to the Gentiles also, and learn them the <hi>Judgments</hi> of the Lord according to God's own Pro<g ref="char:EOLhyphen"/>olamation; Behold my Servant whom I uphold,
+<note place="margin">Esai. 42.1.</note> my Elect in whom my Soul delighteth; I have put my Spirit upon him; he shall bring forth <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (that same word as <hi>David</hi> uses in the place quo<g ref="char:EOLhyphen"/>ted immediately before,) <hi>Judgment</hi> unto the Gen<g ref="char:EOLhyphen"/>tiles:
+<pb n="12" facs="tcp:205878:10"/>and somewhat lower;
+<note place="margin">
+                  <hi>verse</hi> 6.</note>
+               <hi>I the Lord have called thee in Righteousness, and will hold thy hand, and will keep thee, and give thee for</hi> a Covenant <hi>of the People, for a Light of the Gentiles.</hi> God in the ad<g ref="char:EOLhyphen"/>ministration of this Mosaick Oeconomy, seeing the greatest part of the World was gone after the wor<g ref="char:EOLhyphen"/>ship of Idols, began (in a manner) to be more jea<g ref="char:EOLhyphen"/>lous of his Honour, and therefore assures the Peo<g ref="char:EOLhyphen"/>ple that he would not concenter his divine Worship within the Limits of <hi>Canaan,</hi>
+               <note place="margin">
+                  <hi>verse</hi> 7.</note> but spread it over all the Earth, and send his <hi>Elect</hi> to open the Eyes of the blind Gentiles, and to make them partakers of the Covenant of Grace, and draw them nearer to his gracious Presence, &amp; to the Worshipping of his own Name, as one may plainly see it, by the context of the words in the quoted place, and by the jealous Expression the Lord useth there, when he saith;
+<note place="margin">
+                  <hi>verse</hi> 8.</note>
+               <hi>I am</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (a word of Grace, and a Name where<g ref="char:EOLhyphen"/>by God signes and gives a being to his Promises.)
+<note place="margin">Exod. 6.3.</note>
+               <hi>The Lord, that is my Name, and my Glory will I not give to another, neither my Praise to graven I<g ref="char:EOLhyphen"/>mages.</hi>
+               <note place="margin">Esa. 42.9.</note> The former things were come to pass, all things now were to be new, these that were <hi>Loam<g ref="char:EOLhyphen"/>mi,</hi> should now be his People, and these as were <hi>Loruchama</hi> should obtain Mercy and Righteousness, they should not run after other Gods; yea God him<g ref="char:EOLhyphen"/>self should guide them so, as not to permit his E<g ref="char:EOLhyphen"/>lect should go astray; <hi>My Glory will I not give to another.</hi>
+            </p>
+            <p>This leads us to the consideration of the second change of that Mosaical Covenant. Which Change consists in this, that as well as the extent of it,
+<pb n="13" facs="tcp:205878:10"/>(whereof we spoke but now) should be unlimited, so the Levitical Law, yea the whole Mosaical Dis<g ref="char:EOLhyphen"/>pensation should be abolished, and a new Covenant should be substituted, the Benefit whereof should be a more distinct and general knowledg of God, which is contained in the Knowledg of the true Messiah; This is the eternal Life,
+<note place="margin">Joh. 17.3.</note> that they may know thee, the only true God,
+<note place="margin">Jer 31.31, 32, 33.</note> and him whom thou hast sent <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Christ (or Messias) Jesus. Of this change of the Covenant, the Lord himself speaketh thus; <hi>Behold the Day's come saith the Lord, that I will make a</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>a new Covenant with the House of</hi> Israel, <hi>and with the House of</hi> Judah. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Not according to the Covenant that I made with their Fathers in the day that I took them by the hand, to bring them out of the Land of</hi> Egypt <hi>(which my Covenant they broke, although I was a Husband unto them, saith the Lord.) But this shall be the Co<g ref="char:EOLhyphen"/>venant that I will make with the House of</hi> Israel; <hi>af<g ref="char:EOLhyphen"/>ter those Days saith the Lord, I will put my Law in their inward parts, and write it in their Hearts, and will be their God, and they shall be my People.</hi> The Jews indeed, for to palliate their stiffneckedness, tell us these words are to be understood of the renew<g ref="char:EOLhyphen"/>ing the old Covenant, rather than the erecting of a new one. But any Man of Sense or Reason, may plainly see there is contained in these words a ma<g ref="char:EOLhyphen"/>nifest Opposition betwixt the <hi>New</hi> and the <hi>Old</hi> one, as well in words, as in effects, toucht a little higher, yea <hi>Daniel</hi> plainly tells us the Levitical Administra<g ref="char:EOLhyphen"/>tion should be abolished;
+<note place="margin">Dan. 9.26.</note>
+               <hi>He shall cause the Sacrifice and the Oblation to cease;</hi> in stead whereof, from the
+<pb n="14" facs="tcp:205878:11"/>rising of the Sun, even unto the going down of the same,
+<note place="margin">Mich. 1.10.</note> the Name of the Lord should be great a<g ref="char:EOLhyphen"/>mong the Gentiles, and in every place Incense should be offered unto his Name, and a pure Offe<g ref="char:EOLhyphen"/>ring. For his Name should be great among the Heathen, saith the Lord of Hosts. Let the Jews therefore pretend what they will, the Mosaick Law was to be abolished in all its Ranks, as belong<g ref="char:EOLhyphen"/>ed to the Root of Positivity, notwithstanding (which the Jews insist upon very much,) It is said it should last <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; by reason this Word doth not signifie an absolute Eternity, but a kind of a long Duration, as in the case of that Servant who was bound until the Jubile,
+<note place="margin">Exo. 21.6.</note> which was at the end of every 50 years, it is said he should serve <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for ever, but not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> for ever and ever.</p>
+            <p>To shew this more plainly, i'le shortly run over the most weighty Points the Jews use to object in defence of the Perpetuity of their Mosaical Law.</p>
+            <p>The Sacrifices they say were to be for ever, but we shewed the contrary but just now, by the ex<g ref="char:EOLhyphen"/>press words of the holy Scripture. Besides if the Sacrifices were tyed only to the Family of <hi>Aaron,</hi> and none besides could administer the same Un<g ref="char:EOLhyphen"/>punished, as it is evident by many Examples of the holy Writ, and if they were tied only to the Altar of <hi>Jerusalem,</hi>
+               <note place="margin">Psal. 110.</note> God not accepting that Wor<g ref="char:EOLhyphen"/>ship on the high places, though the Offerers in<g ref="char:EOLhyphen"/>tended to terminate the same in him; how can it be then, if in case they were to be for ever, that in the Word of God, is promised a King, who
+<pb n="15" facs="tcp:205878:11"/>should be a Ruler over the Universe, and having made a beginning from <hi>Sion,</hi> should subdue all the World, being at once a King and a Priest for ever, and that after the order of <hi>Melchisedeck,</hi> which hath no affinity with that of <hi>Aaron;</hi> and both of them could not stand? how could it stand together with Truth which <hi>Isaiah</hi> doth prophesie?
+<note place="margin">Isai. 19.19.</note>
+               <hi>In that day shall there be an Altar to the Lord in the midst of the Land of</hi> Egypt, <hi>and a Pillar at the border thereof to the Lord.</hi>
+               <note place="margin">
+                  <hi>ib.</hi> 66.21.</note> Yea Priests and Levits were to be tak<g ref="char:EOLhyphen"/>en of the Heathens,
+<note place="margin">2 Cron. 13.9.</note> which was an Abomination in the Eyes of the Lord during and after the King<g ref="char:EOLhyphen"/>dom of <hi>Jeroboam.</hi>
+            </p>
+            <p>So that it is evident the Sacrifices should cease, as God did effectually shew the same when he caused the Jews to be the space of this 1600 years without a Temple, without an Altar, without the right di<g ref="char:EOLhyphen"/>stinction and knowledg of Tribes, whereby they might know which of them might lawfully Sacri<g ref="char:EOLhyphen"/>fice, and substituted a Temple of the Holy Ghost, and every faithful Christian he made a Priest, his good Works or as the Apostle <hi>Paul</hi> saith,
+<note place="margin">Rom. 12.1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <hi>his reaso<g ref="char:EOLhyphen"/>nable Service</hi> a Sacrifice, according to what he pro<g ref="char:EOLhyphen"/>fessed by the Prophet;
+<note place="margin">Ose. 6.6.</note>
+               <hi>I desired Mercy and not Sa<g ref="char:EOLhyphen"/>crifice, and the knowledg of God more then burnt Offe<g ref="char:EOLhyphen"/>rings;</hi> and at another, <hi>I have shewed thee O Man what is good, and what doth the Lord require of thee;</hi>
+               <note place="margin">Mic. 6.8.</note>
+               <hi>To do justly, and to love Mercy, and to walk humbly with thy God.</hi>
+            </p>
+            <p>Then they object the morality of the Sabbath, the perpetual duration of Circumcision, the exact for<g ref="char:EOLhyphen"/>bidding of Meats, <hi>&amp;c.</hi> But of all these we will
+<pb n="16" facs="tcp:205878:12"/>speak when we come to the handling of the third Oeconomy, which is under the King Messias, and then discharge our Promise.</p>
+            <p>Now as this promised Messiah was more clearly manifested to the Jews by the declaration of the prefixed time and the end of his coming, so his Ti<g ref="char:EOLhyphen"/>tles were more significant under this, than under the former Dispensation. These were touching his Nature and Condition.</p>
+            <p>In the Oeconomy of Emptiness, he was called, until the division of Tribes, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or (as we former<g ref="char:EOLhyphen"/>ly said,) <hi>the Seed,</hi> but here, as if he had grown somewhat up,
+<note place="margin">Esai. 11.2.</note> he is called a <hi>Branch</hi> and a <hi>Rod,</hi> he is called a <hi>Child;</hi>
+               <note place="margin">
+                  <hi>ib.</hi> 9.6.</note> Unto us <hi>a Child is born,</hi> yea, he is called an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a <hi>Man;</hi> How long wilt thou go a<g ref="char:EOLhyphen"/>bout, O thou back-sliding Daughter? <hi>For the Lord hath created a new thing in the Earth;</hi>
+               <note place="margin">Jer. 31.22.</note>
+               <hi>A Woman shall compass</hi> a Man.</p>
+            <p>And lest the People of <hi>Israel</hi> should want the right knowledg of this Branche's Nature, and Con<g ref="char:EOLhyphen"/>stitution,
+<note place="margin">Jer. 23.5, 6.</note> the Lord is pleased to explain the same o<g ref="char:EOLhyphen"/>penly unto them, by the aforesaid Prophet; <hi>Behold the Day's come, saith the Lord, that I will raise unto</hi> David <hi>a righteous</hi> Branch, <hi>and a King shall Reign and prosper, and shall execute Judgment and Justice in the Earth; In his days</hi> Juda <hi>shall be saved, and</hi> Is<g ref="char:EOLhyphen"/>rael <hi>shall dwell safely, and that is his Name, whereby he shall be called</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> The LORD OUR RIGHTEOUSNESS. Which for a further Confirmation God reiterates by the same Prophet. <hi>Chap.</hi> 33. <hi>vers.</hi> 16.</p>
+            <p>Wherein both his Nature and his Offices are plainly Delineated.</p>
+            <pb n="17" facs="tcp:205878:12"/>
+            <p> And first as to his Nature, he is first called a Branch, a Branch of Righteousness, and a Branch of <hi>David,</hi> whereby his humane Nature is denoted. 2ly. He is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>the Lord God,</hi> whereby his Divine Nature is to be understood. So that hence they could easily infer that the King Messias was to be God and Man.</p>
+            <p>This same was very often confirmed to the Faith<g ref="char:EOLhyphen"/>ful by other Scriptures.</p>
+            <p>His manhood they could not doubt of by reason he is called the Seed of a Woman, a Child, a born Child, proceeding from the Loins of <hi>Abraham</hi> in general, out of the Tribe of <hi>Juda</hi> in particular, and more especially out of the House of <hi>David.</hi>
+            </p>
+            <p>His Divinity also could not but be manifest by reason of these Names and Epithets as are attribu<g ref="char:EOLhyphen"/>ted unto him, which are proper to none but God.</p>
+            <p>For here he is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Jehova, a Name de<g ref="char:EOLhyphen"/>noting the proper Divine Essence, and signifying as much as an <hi>Essentiator,</hi> it being as the Cabalists say <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the Vein and Sourse of all sacred and di<g ref="char:EOLhyphen"/>vine Names. Moreover they call this Name <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>a proper Name,</hi> whereas others are called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Surnames,</hi> and can be attributed to a thing which is Prophane, as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> may signifie Idols or Judges, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Adonai</hi> written defectively, may sig<g ref="char:EOLhyphen"/>nifie any Lords, but <hi>Jehova</hi> cannot be allowed to any besides the Divine Essence it self.</p>
+            <p>
+               <hi>Isaiah</hi> the Evangelist of that time, by the inspira<g ref="char:EOLhyphen"/>tion of the Almighty, calls him <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>the mighty God, the everlasting Father,</hi>
+               <note place="margin">Isa. 9.6.</note> and <hi>Micha</hi>
+               <pb n="18" facs="tcp:205878:13"/>confirming the same, and consolating by a way of Prosopopoeia <hi>Bethlehem</hi> of <hi>Ephratah,</hi> tells of this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Ruler</hi> which was the Messiah, that his goings forth should be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> from old, from the days of Eternity.
+<note place="margin">Mich. 5.2.</note>
+            </p>
+            <p>These Epithets can not be attributed to any one besides to him, who as well hath a being of him<g ref="char:EOLhyphen"/>self, as he giveth a being to others, and cannot be compassed by any Circumstance of time, but only by Eternity, and this likewise is such, because of his incomprehensible Duration, which hath no Pe<g ref="char:EOLhyphen"/>riods, but a kind of a Coexistency to them all, since they were concreated to the things framed by the Hand of the Almighty, not unlike to a Dyal which not changing its place, casts a Shadow to all the Hours of the Day.</p>
+            <p>Moreover that infinite work of Redemption, (Infinite I call it, by reason it hath no terms of Comprehension, though apprehend it we may) required this Theanthropy, for none besides <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Immanuel,
+<note place="margin">Heb. 2.16.</note> that is <hi>God with us,</hi> or as the Apostle saith, <hi>he that took on him the Seed of</hi> Abraham, was able to expiate that Guilt, wherein the Nature of Man was involved by the Fall of <hi>Adam.</hi> There was a great Gulf fixed betwixt God and Man, the contiguity and rejoyning whereof could not be performed but by him, who partaked of both the Natures.</p>
+            <p>Secondly. As to his Offices, we do find them here also. The Faithful under this Dispensation knew well,
+<note place="margin">Zach. 9.9.</note> Messias was to be a King according to that of the Prophet; <hi>Behold thy King cometh unto
+<pb n="19" facs="tcp:205878:13"/>thee</hi> &amp;c. They knew he was to be a Prophet; <hi>a Prophet shall God raise like unto me</hi> saith <hi>Moses,</hi>
+               <note place="margin">Deut. 18.</note> speaking of Messiah:
+<note place="margin">Psal. 110.4.</note> they knew he was to be a Priest; <hi>Thou art a Priest for ever, after the Order of</hi> Melchisedek; Yea that it should not be doubt<g ref="char:EOLhyphen"/>ed this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> righteous Branch should bear all these Offices, the Lord expresly tells his Peo<g ref="char:EOLhyphen"/>ple of it by <hi>Zachariah;</hi> Thus speaketh the Lord of Hosts, saying;
+<note place="margin">Zach. 6.12, 13.</note>
+               <hi>Behold the Man whose Name is the</hi> BRANCH, <hi>&amp;c. He shall be the Glory, and shall</hi> Sit and Rule upon his Throne, <hi>and he shall be</hi> a Priest <hi>upon his Throne,</hi> and the Council of Peace <hi>shall be between them both.</hi> Here he is proposed as Ruler or a King, as a Priest, and as a Councellor of Peace, or a Prophet. All this is shortly compre<g ref="char:EOLhyphen"/>hended in this Word RIGHTEOUSNESS, which is the Epithet as is added to the Name <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>First under this word of RIGHTEOUSNESS is comprehended the Kingly Office;
+<note place="margin">Jer. 33.15.</note> This <hi>Branch</hi> shall execute Judgment and <hi>Righteousness</hi> saith the Lord, which to be a part of the Royal Office, is to be seen at the same Prophets;
+<note place="margin">
+                  <hi>ib.</hi> 23.5.</note> (the best glossator of his Words:) <hi>A King shall Reign and Prosper, and shall execute Judgment and Justice, &amp;c.</hi> Then <hi>Ju<g ref="char:EOLhyphen"/>da</hi> should be saved from the Incursions of Sathan, and <hi>Israel</hi> should dwell safely, not being subject to go astray from that Scepter whereby he was to be ruled, and was subject to.</p>
+            <p>Secondly. The prophetical Office also is here comprehended, which properly consists in the teach<g ref="char:EOLhyphen"/>ing and fulfilling of the Commandments of God: hence Christ himself; <hi>Suffer it to be so now,</hi>
+               <note place="margin">Mat. 3.15.</note>
+               <hi>for thus
+<pb n="20" facs="tcp:205878:14"/>it becometh us to fulfil all</hi> Righteousness. Considered as such, he was to open the Eyes of the Blind, to lead People into the Path of Salvation; or as it is in <hi>Job,</hi> to instruct many, to strengthen the weak Hands and feeble Knees.
+<note place="margin">Job. 4.3, 4.</note>
+            </p>
+            <p>Thirdly. Herein is specified the <hi>Priestly</hi> Office also, which consists in offering up his own Soul for Sin, which he, by a way of a Covenant made be<g ref="char:EOLhyphen"/>tween him and his Father, took upon himself, pro<g ref="char:EOLhyphen"/>mising to satisfie for it; nor could he be called <hi>Righ<g ref="char:EOLhyphen"/>teous</hi> before he had given his Soul a Ransom; and then he was to see the Travel of his Soul and was to be satisfied, and being proclaimed Righteous, impart to others his Merits purchased by his suffe<g ref="char:EOLhyphen"/>rings; <hi>By his Knowledg</hi> saith the Lord, <hi>shall my</hi> Righteous <hi>Servant justify many,</hi>
+               <note place="margin">Isai. 53.11.</note>
+               <hi>for he shall bear their Iniquities.</hi>
+            </p>
+            <p>And this as well as the rest of his Offices were clearly shadowed by the multitude of Types, we spoke of before. The Ark of the Covenant signi<g ref="char:EOLhyphen"/>fied nothing but the King Messiah, for as that had in it self the Tables of the Law, the Manna, and the Rod of <hi>Aaron,</hi> so the fulness of Godhead, the Springs of living Waters, and the Blossom of Salvation was to be in Messiah the King, who was to be the Hea<g ref="char:EOLhyphen"/>venly Manna, which signified the Prophetical Of<g ref="char:EOLhyphen"/>fice.
+<note place="margin">Exod. 37.1. <hi>&amp;c.</hi>
+               </note> Upon this Ark there was a Propitiatory or a Mercy-Seat, (which denoted the Priestly Office) as covering with Mercy the Transgressions of <hi>Israel,</hi> and as hiding in a manner that Law which was their accuser, and smothering that <hi>Malediction</hi> that hung over them,
+<note place="margin">Deut. 27.</note> as could not fulfil it. <hi>Cursed is every one,
+<pb n="21" facs="tcp:205878:14"/>&amp;c.</hi> Hence Messiah is said to have <hi>redeemed us from the Curse of the Law, being made a Curse for us.</hi>
+               <note place="margin">Gal. 3.13.</note> Both these Offices typified by the Ark, were surround<g ref="char:EOLhyphen"/>ed by <hi>a Crown of Gold,</hi> denoting the royal Office of the future Messiah. All these were really Types; but if we would use some Allegories (as here we are forced, because of the Curious) we should tell that the four Rings which were at the four Corners of the Ark, did denote the four last things, <hi>viz.</hi> Death, Judgment, Hell, and Heaven, which the People could either reign over by the bearing up of the Ark (which was Christ) with the two Staves of Shittim-wood, that is <hi>Faith and Repentance,</hi> or else be subdued by them,
+<note place="margin">Deut. 28.23.</note> without the bearing up of him. For Heaven can be a Curse as well as the rest; Or else as <hi>Hierom</hi> saith; it did denote the four Evangelists,
+<note place="margin">Ad Euseb. in quat. Evang.</note> who by the unmovable Staves of Perseverance were supported. <hi>Ecclesia, quatuor Flumina, Paradici instar eructans, quatuor annulos &amp; angulos habet, per quos quasi arca testamenti &amp; custos legis Domini, lignis immobilibus vehitur.</hi> The Church, disburdening four Rivers not unlike to the Paradice, hath four Corners and Rings, by which it is conveyed or lifted up as an Ark of the Covenant, by the immovable Staves.</p>
+            <p>Then <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Urim and Thummim,
+<note place="margin">Exod. 28.30.</note> signi<g ref="char:EOLhyphen"/>fying Light and Rectitude, denoted the Propheti<g ref="char:EOLhyphen"/>cal Office of the Messiah, who was to be Light un<g ref="char:EOLhyphen"/>to the Gentiles, and to do Justice upon Earth.</p>
+            <p>The scape-Gote was likewise a Type of the Priest Messiah.
+<note place="margin">Levit. 16.21.</note> He having all the Transgressions of the People of <hi>Israel,</hi> was to be sent away into <hi>the Wil<g ref="char:EOLhyphen"/>derness,</hi>
+               <pb n="22" facs="tcp:205878:15"/>which denoted nothing else but the future Messiah, who was to suffer for our Sins, and to bear our Transgressions, in those days when the Revolu<g ref="char:EOLhyphen"/>tion of our Souls Dispensation should again become in a manner (as the quoted Rabbi <hi>Elihu</hi> saith) <hi>a Wilderness.</hi> He was to bear the Guilt as well as the Punishment, for to free them of it, as lay un<g ref="char:EOLhyphen"/>der them both, by their Transgressions.</p>
+            <p>So that hence we may clearly see, how both the Oeconomies, that is of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Emptiness</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Mosaick, did tend to nothing else, besides to the adumbration and typifying of Messiah, who is a King, a Prophet, and a Priest, in Nature God and Man, yet one Person without either Division or Confusion of Attributes.</p>
+            <p>We may see also that the prefixed time of his coming is long since past, and that consequently he is come, or else Gods Predictions and Determi<g ref="char:EOLhyphen"/>nation must be false, who nevertheless is a Go'd of Truth and Righteousness.</p>
+            <p>So that by the Consideration of this same, I who have formerly been a Jew, have been brought over to Christ and to his Oeconomy, and as having fought a good Battle against Flesh and Satan, have been Baptised by the Name of <hi>Israel,</hi> in exchange of <hi>Jacob,</hi> whereby I was called formerly.</p>
+            <p>Now this Oeconomy of the true Messias, in whom I believe, did begin at the end of the Seven<g ref="char:EOLhyphen"/>ty Weeks. This is the last Oeconomy of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the Days of the Messiah, who according to that concentration of all the Prophecies as are a<g ref="char:EOLhyphen"/>bout him, can be none else, but Jesus of <hi>Nazareth,</hi>
+               <pb n="23" facs="tcp:205878:15"/>in whom the Christians believe. For his coming doth exactly agree with the time allotted in the fore<g ref="char:EOLhyphen"/>mentioned Prophecie. From the Captivity of <hi>Babylon</hi> unto the Destruction of the second Temple, are just seventy <hi>Weeks of Years,</hi> the Captivity last<g ref="char:EOLhyphen"/>ed 70 Years, and the second Temple 420, which makes up just 490.</p>
+            <p>The Natures both Humane and Divine were ap<g ref="char:EOLhyphen"/>parent in him; As to the Humane 'tis known, he was born, did grow, was crucified, dead, and buri<g ref="char:EOLhyphen"/>ed, besides many other Symptoms he was subject to, as a Man, having taken upon him the Seed of <hi>Abraham.</hi> His Deity was apparent by his Miracles, by his Resurrection performed by his own Power. All which I could prove at large if it were not an Argument sufficiently known by all, and as well managed as any Truth possible.</p>
+            <p>Enough it is for me, and for the satisfaction of my Conscience that I do acknowledg this Oecono<g ref="char:EOLhyphen"/>my, to be <hi>in esse,</hi> and seeing all these things, as e<g ref="char:EOLhyphen"/>ver were foretold by the Prophets, were fulfilled in Jesus of <hi>Nazareth,</hi> him I confess to be the true Messiah and Saviour.</p>
+            <p>This Oeconomy, by our more nominated Rabbi <hi>Elihu</hi> is called as the first, a <hi>Wilderness,</hi> because the difference of all these Mosaical Rites should cease, and the liberty of Christians (which now is used) Succeed in its place. Here the diversity of Meats was to be void according to the determinati<g ref="char:EOLhyphen"/>on of Christ, generally proposed, not that goeth into a man defileth him, but that comes out of him.
+<note place="margin">Gen 9.2, 4.</note> For <hi>Noah</hi> and his Posterity had no limitation in
+<pb n="24" facs="tcp:205878:16"/>Meats, Blood only excepted, or rather as some do interpret quick and bloody things, such as the bar<g ref="char:EOLhyphen"/>barous <hi>Tartars</hi> use to this very day. Yea in the very Law it self,
+<note place="margin">Deut. 14.21.</note> it appears these Prohibitions of Meats to have been positive and changeable; for a thing that died of it self, did not defile a Gentile or a Stranger, whereas it defiled a Jew. And the very Rabbies themselves generally agree the distincti<g ref="char:EOLhyphen"/>on of Meats should cease in the times of Messiah, and Swines Flesh should be as pure as the rest. Some of them after their Caballistical Fashion prove the same out of the Name of the Hag, which in the He<g ref="char:EOLhyphen"/>brew is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which is derived from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which sig<g ref="char:EOLhyphen"/>nifies to return, only because its end is to return, that is to be as lawfully used as before. And sure<g ref="char:EOLhyphen"/>ly (as a learned Man saith) when God intended to gather one People out of many, it was more a<g ref="char:EOLhyphen"/>greeable to Reason, he should make the Liberty ra<g ref="char:EOLhyphen"/>ther than the Servitude common in such matters.</p>
+            <p>Circumcision likewise was not to be a perpetual Commandment, by reason that same belonged to the Mosaick Law, which (as we shortly proved) was to be abolished. For it was a kind of a Pro<g ref="char:EOLhyphen"/>logue of that Covenant, the Lord did publish by <hi>Moses.</hi> For so said <hi>the Lord; And I will establish my Covenant between me and thee,</hi>
+               <note place="margin">Gen. 17.7, 8, 9.</note> &amp;c. <hi>Therefore thou shalt keep my Covenant, thou and thy Seed after thee in thy Generations. This is my Covenant; E<g ref="char:EOLhyphen"/>very Man-Child among you shall be Circumcised.</hi> Yea 'tis manifest enough out of the Writings of the Prophets, that by this carnal Circumcision, was signified a more excellent way of taking away our
+<pb n="25" facs="tcp:205878:16"/>Foreskin; namely the Circumcision of our Hearts, whereunto tends all the Commandments of our Sa<g ref="char:EOLhyphen"/>viour. And that this Circumcision was not to be perpetual or absolutely necessary, is evident by that <hi>Abraham</hi> pleased God before his Circumcision, and all the Travels of the Hebrews over the Fields of <hi>Arabia</hi> were void of it; That I may omit that some Christians are of Opinion this same Circumcision may be used amongst Christians as descended from the Jews, but not to be imposed upon them which have never been under that Covenant.</p>
+            <p>As to the Sabbath it is either a Commandment totally Ceremonial and Positive,
+<note place="margin">Exod. 31.13, 16.</note> yea a special Sign betwixt God and <hi>Israel,</hi> or else it is moral as to the seventh day in the Week, and ceremonial as to the strictness of Observation, and the precisity of a day. Hence the most learned amongst the Rabbies make a distinction betwixt the Commandment of <hi>Remembrance</hi> (in relation to the Sabbath) and the Commandment of <hi>Observation,</hi>
+               <note place="margin">Exod. 20.8. Exod. 31.31.</note> which consisted in the exact abstinence from all work, whereas the other consisted only in religious Remembrance of the Worlds creation.</p>
+            <p>Having clear'd this point, I have nothing else to say, but that by all the Prophecies, and the Fulfil<g ref="char:EOLhyphen"/>lings of the same, I have been convinced of the coming of the Messiah the King, and that Jesus Christ was the same, who was Crucified, sold for thirty Pieces, betrayed by his own Friend, pierced, dead, buried, and rose again. The Lord confirm me in this Faith, by which I hope to be saved, for the Merits of my Saviour Christ Jesus, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
